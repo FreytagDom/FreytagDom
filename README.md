@@ -1,5 +1,7 @@
 # FreytagDom
 
+![GitHub Stats[(https://github-readme-stats.vercel.app/apiFreytagDom=&theme=tokiynight)
+
 ---
 ### Job´s
 - electronics technician
