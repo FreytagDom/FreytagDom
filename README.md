@@ -11,6 +11,13 @@
 - electronics repairman
 - system maintenance
 
+### New lerning
+- html
+- CSS
+- JavaScript
+- React
+- NextJS
+
 #### I´m intrested 
 - develop
 - coden
